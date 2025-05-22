@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'Robus-BWqOd';
-    src: url('https://www.shanebrumback.com/fonts/Robus-BWqOd.otf') format('openeye');
+    src: url('https://www.shanebrumback.com/fonts/Robus-BWqOd.otf') format('opentype');
 }
 
 body{
@@ -55,7 +55,7 @@ p{
 }
 
 @media(max-width:900px){
-    #PlayButton{
+    #playButton{
         font-family: 'Robus-BWqOd';
         font-size: 15vw;
     }
